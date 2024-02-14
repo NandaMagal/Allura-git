@@ -1,0 +1,106 @@
+    header {
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
+title {
+    font-size: 20px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+body {}
+
+h1 {
+    margin: 15px;
+    padding: 10px;
+    border: 2px;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    text-align-last: center;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    background: #CCCCCC;
+    color: blue;
+    margin: 40px;
+    padding: 20px;
+    border: 10px solid #000000;
+    text-align: center;
+    background: #CCCCCC;
+    margin: 40px;
+    color: green;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px"
+
+}
+
+em strong {
+    color: red;
+}
+
+
+/* para definir uma classe colocamos ponto */
+
+.itens {
+    font-style: italic;
+    font-size: 15px;
+}
+
+.itens li:active {
+    border-color: #088c19;
+    title:hover {
+        border-color: blue;
+    }
+    .beneficios {
+        background: #FFFFFF;
+        padding: 20px;
+    }
+    h2 {
+        text-align: center;
+    }
+    ul {
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+    }
+    .imagembeneficios {
+        width: 50%;
+    }
+    footer {
+        background: url("bg.jpg");
+        text-align: center;
+        padding: 40px 0;
+    }
+    /*utiliza linguagem unicode -table.com*/
+    .copyright {
+        color: #FFFFFF;
+        font-size: 13px;
+        margin: 20px;
+    }
